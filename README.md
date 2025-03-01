@@ -1,10 +1,14 @@
 Hi 👋 My name is Vladyslav Dubeiko
 ==================================
 
-Frontend Developer
+Markup Developer
 ------------------
 
-I have a passion for web development and love to create websites that are visually stunning and highly functional. I have experience working with a variety of technologies, including HTML, CSS, JavaScript. I am always looking for new challenges and opportunities to learn and grow as a developer. I leverage the power of modern tools and technologies such as GULP and WEBPACK to optimize and streamline the development process, ensuring efficient and high-quality code. Additionally, I utilize VSCode for efficient coding and Figma for seamless design collaboration. My expertise in responsive design, cross-browser compatibility, and performance optimization ensures that every project I work on meets the highest standards of excellence. Explore my portfolio to see how I bring creativity and technical proficiency together to deliver exceptional web solutions.
+I am an experienced markup developer with in-depth knowledge of HTML, CSS, and JavaScript. In my work, I actively use modern preprocessors such as SCSS and Pug, which allows me to ensure high productivity and efficiency in the development process. I use Gulp and Webpack based builds to optimize the workflow.
+
+I confidently handle adaptive and cross-browser layout, which allows me to create convenient and functional websites for users on various devices and browsers. I also use VsCode for coding and Figma for working with design layouts.
+
+I actively utilize the BEM methodology for organizing CSS class naming, which helps maintain a clear and structured code base. Additionally, I use Git and GitHub for version control and collaboration on projects, ensuring reliability and traceability of code changes.
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [MyPortfolio](http://vladd16.github.io/Portfolio-page/Vladyslav-Dubeiko/)
