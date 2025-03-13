@@ -4,7 +4,7 @@ Hi 👋 My name is Vladyslav Dubeiko
 Markup Developer
 ------------------
 
-I am an experienced markup developer with in-depth knowledge of HTML, CSS, and JavaScript. In my work, I actively use modern preprocessors such as SCSS and Pug, which allows me to ensure high productivity and efficiency in the development process. I use Gulp and Webpack based builds to optimize the workflow.
+I am an experienced markup developer with in-depth knowledge of HTML, CSS, and JavaScript. In my work, I actively use modern preprocessors such as SCSS, which allows me to ensure high productivity and efficiency in the development process. I use Gulp and Webpack based builds to optimize the workflow.
 
 I confidently handle adaptive and cross-browser layout, which allows me to create convenient and functional websites for users on various devices and browsers. I also use VsCode for coding and Figma for working with design layouts.
 
